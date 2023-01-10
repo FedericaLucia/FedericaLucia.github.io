@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Fine Arts, Hons, Academy of Fine Arts Brera, Milan, Italy 2011
+* M.S. in Computer Science, Edinburgh Napier University, Edinburgh, Scotland, UK, 2018
+* Ph.D in Social Computing and Crowdsourcing, Human Centered Computing, Utrecht University, Utrecht, The Netherlands
 
 Work experience
 ======
