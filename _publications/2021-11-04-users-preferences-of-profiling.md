@@ -1,5 +1,5 @@
 ---
-title: "Users' Preferences of Profiling Attributes on Crowdsourcing Team Formation Systems"
+title: "Users Preferences of Profiling Attributes on Crowdsourcing Team Formation Systems"
 collection: publications
 permalink: /publication/2021-11-04-preferences-of-profiling
 excerpt: ' This study investigates crowd users' preferences of profiling attributes displayed on online team formation systems. To evaluate participants' preferences, we looked at their willingness to see and their perceived usefulness across several profiling attributes grouped into surface-level and deep-level traits.'
