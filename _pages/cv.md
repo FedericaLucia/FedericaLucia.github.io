@@ -95,6 +95,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Recent* courses
+======
+* 2022 	SIKS: From Data Lakes to Knowledge Graphs
+* 2021 	Writing a Scientific Paper
+* 2020 	Start to teach course
+* 2019 	PhD Introductory Course: Taking Charge of Your PhD
+* 2019 	PhD Workshop: GSNS Master’s Introduction
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2019 	WICS Steering Committee Member
+* 2019 	Member of PhD council
