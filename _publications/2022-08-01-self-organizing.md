@@ -2,21 +2,12 @@
 title: "Self-organizing teams in online work settings"
 collection: publications
 permalink: /publication/2022-08-01-self-organizing
-excerpt: 'Working in online platforms, where employers hire groups of workers on demand, is becoming increasingly
-common. Algorithms play a central role in coordinating this new labor model. Current algorithms organize people
-without giving them a say in who they will work with, when, or how. Can we give workers control while maintaining
-quality? In this paper, we propose a new approach, namely Self-Organizing Pairs (SOPs), which incorporates selforganization
+excerpt: 'In this paper, we propose a new approach, namely Self-Organizing Pairs (SOPs), which incorporates self organization
 in algorithmic collaboration management, by facilitating workers to self-organize into effective pairs
 while being supported—but not guided—by an algorithm. We compared SOPs with two baselines that do not allow
 user agency, on a creative task of fictional story writing. Our findings indicate that the SOPs approach leads to creative
 outputs of higher quality and to higher collaboration satisfaction. Our results have scientific, applied, and societal
-implications. At a scientific level, we contribute to the development of collaborative work systems that are humancentered,
-non-intrusive and make workers an integral part of the algorithmic decision-making processes. At an
-applied level, SOPs can help existing online work platforms integrate the element of collaboration more systematically
-into their structure. Finally, this work contributes to the broader societal discussion around the future of work
-and ethical AI. Our approach, offering an alternative yet practical way to ensure a balanced coexistence between
-human workers and collaboration management algorithms, can contribute towards creating a future of online work
-that is more respectful and better uses both human and algorithmic capabilities.'
+implications.'
 date: 2022-08-01
 venue: 'Collective Intelligence'
 paperurl: 'https://journals.sagepub.com/doi/pdf/10.1177/26339137221078005'

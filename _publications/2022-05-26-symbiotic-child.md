@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-05-26-symbiotic.child
 excerpt: 'In this paper, we suggest the development of a symbiotic framework for real-time Emotional Support (ES) with social robots Knowledge Graphs (KG). By augmenting a domain-specific corpus from the literature on ES for children (between the age of 8 and 12) and providing scenario-driven context including the history of events, we suggest developing an experimental knowledge-aware ES framework.'
 date: 2022-05-27
-venue: 'Human-Centered Design of Symbiotic Hybrid Intelligence Workshop HHAI 2022'
+venue: 'Human-Centered Design of Symbiotic Hybrid Intelligence Workshop HHAI'
 paperurl: 'https://arxiv.org/abs/2205.13229'
 citation: 'Saccardi, I., Islakoglu, D. S., Neerincx, A., & Vinella, F. L. (2022). Symbiotic Child Emotional Support with Social Robots and Temporal Knowledge Graphs. arXiv preprint arXiv:2205.13229.'
 ---

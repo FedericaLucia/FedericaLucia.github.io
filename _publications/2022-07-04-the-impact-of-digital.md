@@ -1,0 +1,14 @@
+---
+title: "The Impact of Digital Nudging Techniques on the Formation of Self-Assembled Crowd Project Teams"
+collection: publications
+permalink: /publication/2022-07-04-the-impact-of-digital
+excerpt: ' In a study involving 120 crowd participants, working on the scenario of a crowdsourced innovation project, we tested the effects of two choice architecture and nudging techniques. The first technique displayed explicit personalized diversity information in the form of the current team diversity score and diversity recommendations. The second technique used diversity priming, in the form of counter-stereotypes and all-inclusive multiculturalism.'
+date: 2022-07-04
+venue: 'Proceedings of the 30th ACM Conference on User Modeling, Adaptation and Personalization'
+paperurl: 'https://dl-acm-org.proxy.library.uu.nl/doi/abs/10.1145/3503252.3531298'
+citation: 'Vinella, F., Mosch, R., Lykourentzou, I., & Masthoff, J. (2022, July). The Impact of Digital Nudging Techniques on the Formation of Self-Assembled Crowd Project Teams. In Proceedings of the 30th ACM Conference on User Modeling, Adaptation and Personalization (pp. 265-275).'
+---
+Self-assembling team formation systems, where online users can select their teammates, are gaining research and industry interest. Still, the benefits of diversity remain frequently untapped for these teams, as people tend to choose others similar to them. In this study, we examine whether making users aware of the team’s diversity can impact their selections. In a study involving 120 crowd participants, working on the scenario of a crowdsourced innovation project, we tested the effects of two choice architecture and nudging techniques. The first technique displayed explicit personalized diversity information in the form of the current team diversity score and diversity recommendations. The second technique used diversity priming, in the form of counter-stereotypes and all-inclusive multiculturalism. Our results indicate that, while priming deterred participants from picking teammates of different regions, displaying diversity information was the only factor to positively enhance diverse choices. These results were not moderated by the users’ ’‘need to belong” levels, an intrinsic motivation justifying one’s need to form social ties. Other factors which we also find to predict selection behavior were the participants’ region of origin, participants’ gender, teammates’ functional backgrounds, and teammates’ order of appearance. In light of these findings, we suggest that nudging techniques need to be cautiously applied to online team formation as the different techniques differ in their ability to evoke diversity among intrinsically diverse crowds, and that personalised displaying of diversity information seems most promising.
+
+[Download paper here](https://dl-acm-org.proxy.library.uu.nl/doi/abs/10.1145/3503252.3531298)
+
