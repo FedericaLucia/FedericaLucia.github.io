@@ -2,9 +2,9 @@
 title: "Users' Preferences of Profiling Attributes on Crowdsourcing Team Formation Systems"
 collection: publications
 permalink: /publication/2021-11-04-preferences-of-profiling
-excerpt: ' This study investigates crowd users' preferences of profiling attributes displayed on online team formation systems. To evaluate participants' preferences, we looked at their willingness to see and their perceived usefulness across several profiling attributes grouped into surface-level and deep-level traits.'
+excerpt: "This study investigates crowd users' preferences of profiling attributes displayed on online team formation systems. To evaluate participants' preferences, we looked at their willingness to see and their perceived usefulness across several profiling attributes grouped into surface-level and deep-level traits."
 date: 2021-11-04
-venue: ' 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)'
+venue: "16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)"
 paperurl: 'https://ieeexplore-ieee-org.proxy.library.uu.nl/abstract/document/9610773'
 citation: "Vinella, F. L., Lykourentzou, I., & Masthoff, J. (2021, November). Users' Preferences of Profiling Attributes on Crowdsourcing Team Formation Systems. In 2021 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP) (pp. 1-10). IEEE."
 ---
