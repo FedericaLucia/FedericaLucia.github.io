@@ -97,13 +97,14 @@ Teaching
   
 Recent* courses
 ======
-* 2022 	SIKS: From Data Lakes to Knowledge Graphs
-* 2021 	Writing a Scientific Paper
-* 2020 	Start to teach course
-* 2019 	PhD Introductory Course: Taking Charge of Your PhD
-* 2019 	PhD Workshop: GSNS Master’s Introduction
+* 2022 	SIKS (The Netherlands Research School for Information and Knowledge Systems) workshop: From Data Lakes to Knowledge Graphs
+* 2021 	Writing a Scientific Paper Program (Annemarie van der Zeeuw) 
+* 2020 	Start to teach course (Dr. Gemma Corbalan)
+* 2019 	PhD Introductory Course: Taking Charge of Your PhD, Utrecht University
+
 
 Service and leadership
 ======
-* 2019 	WICS Steering Committee Member
-* 2019 	Member of PhD council
+* 2021 GSNS Master's introduction: talk about being a PhD candidate in Computer Science to Master students from Utrecht University.
+* 2019 	WICS (Women in Computer Science) Steering Committee Member.
+* 2019 	Member of PhD council, Utrecht University.
