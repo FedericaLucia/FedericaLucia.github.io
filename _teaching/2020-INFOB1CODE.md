@@ -1,5 +1,5 @@
 ---
-title: "Computational Thinking (Computationeel denken)"
+title: "Computational Thinking with Python"
 collection: teaching
 type: "Undergraduate (BS) course"
 permalink: /teaching/2020-INFOB1CODE
