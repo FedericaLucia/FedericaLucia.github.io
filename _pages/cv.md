@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.A. in Fine Arts, Hons, Academy of Fine Arts Brera, Milan, Italy, 2011
-* M.S. in Computer Science, Edinburgh Napier University, Edinburgh, Scotland, UK, 2018
+* MSc in Computer Science, Edinburgh Napier University, Edinburgh, Scotland, UK, 2018
 * Ph.D in Social Computing and Crowdsourcing, Human Centered Computing, Utrecht University, Utrecht, The Netherlands, 2019
 
 Work experience
