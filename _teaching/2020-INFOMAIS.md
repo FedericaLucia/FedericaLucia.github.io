@@ -15,7 +15,7 @@ This course is about the **design and evaluation of interactive systems that aut
     1. Analyse and explain the need for adaptation
     2. Choose user, context, group characteristics to model
     3. Decide how to model these, critically analysing the (dis)advantages of using different techniques
-    4. Design adaptation mechanisms, critically analysing the (dis) advantages of using different techniques
+    4. Design adaptation mechanisms, critically analysing the (dis)advantages of using different techniques
     5. Explain and show the user experience of an adaptive system
     6. Model the implementation of an adaptive system
     7. Consider quality aspects of an adaptive system and decide which to focus on and how to measure those
