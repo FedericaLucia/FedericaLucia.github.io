@@ -17,6 +17,7 @@ make images and music searchable? Which models and algorithms are involved used?
 Both lines come together in the final assignment of the seminar: itself a simple one programming a search engine in Python.
 
 ===
+
 **Course Goals**
 1. Programming in Python, using correctly the constructs and syntax of this language
 2. Computational thinking about information science problems
