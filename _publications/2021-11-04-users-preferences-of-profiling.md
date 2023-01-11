@@ -1,12 +1,12 @@
 ---
-title: "Users Preferences of Profiling Attributes on Crowdsourcing Team Formation Systems"
+title: "Users' Preferences of Profiling Attributes on Crowdsourcing Team Formation Systems"
 collection: publications
 permalink: /publication/2021-11-04-preferences-of-profiling
 excerpt: ' This study investigates crowd users' preferences of profiling attributes displayed on online team formation systems. To evaluate participants' preferences, we looked at their willingness to see and their perceived usefulness across several profiling attributes grouped into surface-level and deep-level traits.'
 date: 2021-11-04
 venue: ' 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)'
 paperurl: 'https://ieeexplore-ieee-org.proxy.library.uu.nl/abstract/document/9610773'
-citation: 'Vinella, F. L., Lykourentzou, I., & Masthoff, J. (2021, November). Users' Preferences of Profiling Attributes on Crowdsourcing Team Formation Systems. In 2021 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP) (pp. 1-10). IEEE.'
+citation: "Vinella, F. L., Lykourentzou, I., & Masthoff, J. (2021, November). Users' Preferences of Profiling Attributes on Crowdsourcing Team Formation Systems. In 2021 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP) (pp. 1-10). IEEE."
 ---
 People are increasingly making use of professional online services to outsource projects and remote teams through crowdsourcing tools. In these online self-assembly team formation settings, profiling information is vital to crowd users; it is focal to gathering knowledge about others and constructing virtual identities of themselves. This study investigates crowd users' preferences of profiling attributes displayed on online team formation systems. To evaluate participants' preferences, we looked at their willingness to see and their perceived usefulness across several profiling attributes grouped into surface-level and deep-level traits. These are classes of profiling traits quantifying group diversity that we use to distinguish between surface-level demographic and deep-level attitudinal traits. A total of 117 crowd participants answered close-ended questions about their preferences of profiling information concerning theirs and other crowd users' profiles on team self-assembly systems. Results indicate that crowd users significantly prefer disclosing surface-level attributes, both for themselves and others in terms of willingness to see and perceived usefulness. Surface-level attributes such as age, education, and availability are favored over deep-level attributes concerning crowd users' mental states, beliefs, and political affiliation. These results lay the foundation for future studies on the effectiveness and appropriateness of user-centered profiling information displayed on online crowdsourcing team formation systems.
 
