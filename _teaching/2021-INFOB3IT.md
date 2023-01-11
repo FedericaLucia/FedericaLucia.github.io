@@ -1,7 +1,7 @@
 ---
 title: "Information Technology"
 collection: teaching
-type: "Graduate (MSc) course"
+type: "Undergraduate (MSc) course"
 permalink: /teaching/2021-INFOB3IT
 venue: "Utrecht University, School of Information and Computer Science"
 date: 2021-01-01
