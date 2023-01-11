@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Capturing the city’s heritage on-the-go: Design requirements for mobile crowdsourced cultural heritage"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper addresses a suggested route for conceiving, designing and appraising a digital framework intended to support the conservation of the intangible experience, from a user and a collective-centred perspective.'
+date: 2020-03-20
+venue: 'MDPI Sustainability 2020'
+paperurl: 'https://www.mdpi.com/2071-1050/12/6/2429'
+citation: 'Hannewijk, B., Vinella, F. L., Khan, V. J., Lykourentzou, I., Papangelis, K., & Masthoff, J. (2020). Capturing the city’s heritage on-the-go: Design requirements for mobile crowdsourced cultural heritage. Sustainability, 12(6), 2429.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Intangible Cultural Heritage is at a continuous risk of extinction. Where historical artefacts engine the machinery of intercontinental mass-tourism, socio-technical changes are reshaping the anthropomorphic landscapes everywhere on the globe, at an unprecedented rate. There is an increasing urge to tap into the hidden semantics and the anecdotes surrounding people, memories and places. The vast cultural knowledge made of testimony, oral history and traditions constitutes a rich cultural ontology tying together human beings, times, and situations. Altogether, these complex, multidimensional features make the task of data-mapping of intangible cultural heritage a problem of sustainability and preservation. This paper addresses a suggested route for conceiving, designing and appraising a digital framework intended to support the conservation of the intangible experience, from a user and a collective-centred perspective. The framework is designed to help capture the intangible cultural value of all places exhibiting cultural-historical significance, supported by an extensive analysis of the literature. We present a set of design recommendations for designing mobile apps that are intended to converge crowdsourcing to Intangible Cultural Heritage.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.mdpi.com/2071-1050/12/6/2429)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Hannewijk, B., Vinella, F. L., Khan, V. J., Lykourentzou, I., Papangelis, K., & Masthoff, J. (2020). Capturing the city’s heritage on-the-go: Design requirements for mobile crowdsourced cultural heritage. Sustainability, 12(6), 2429.
