@@ -1,8 +1,8 @@
 ---
 title: "Programming with Data"
 collection: teaching
-type: "Undergraduate (MSc) course"
-permalink: /teaching/2020-INFOMAIS
+type: "Undergraduate (BS) course"
+permalink: /teaching/2020-INFOB2PWD
 venue: "Utrecht University, School of Information and Computer Science"
 date: 2020-01-01
 location: "Utrecht, The Netherlands"
