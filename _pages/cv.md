@@ -107,4 +107,4 @@ Service and leadership
 ======
 * 2021 GSNS Master's introduction: talk about being a PhD candidate in Computer Science to Master students from Utrecht University.
 * 2019 	WICS (Women in Computer Science) Steering Committee Member.
-* 2019 	Member of PhD council, Utrecht University.
+* 2019 	Member of the Information and Computer Science Department-wide PhD council, Utrecht University.
