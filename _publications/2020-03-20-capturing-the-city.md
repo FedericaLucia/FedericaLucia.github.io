@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-03-20-capturing-the-city
 excerpt: 'This paper addresses a suggested route for conceiving, designing and appraising a digital framework intended to support the conservation of the intangible experience, from a user and a collective-centred perspective.'
 date: 2020-03-20
-venue: 'MDPI Sustainability 2020'
+venue: 'MDPI Sustainability'
 paperurl: 'https://www.mdpi.com/2071-1050/12/6/2429'
 citation: 'Hannewijk, B., Vinella, F. L., Khan, V. J., Lykourentzou, I., Papangelis, K., & Masthoff, J. (2020). Capturing the city’s heritage on-the-go: Design requirements for mobile crowdsourced cultural heritage. Sustainability, 12(6), 2429.'
 ---
