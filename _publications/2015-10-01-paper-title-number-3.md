@@ -1,15 +1,41 @@
 ---
-title: "Paper Title Number 3"
+title: "Self-organizing teams in online work settings"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2022-08-01-self-organizing
+excerpt: 'Working in online platforms, where employers hire groups of workers on demand, is becoming increasingly
+common. Algorithms play a central role in coordinating this new labor model. Current algorithms organize people
+without giving them a say in who they will work with, when, or how. Can we give workers control while maintaining
+quality? In this paper, we propose a new approach, namely Self-Organizing Pairs (SOPs), which incorporates selforganization
+in algorithmic collaboration management, by facilitating workers to self-organize into effective pairs
+while being supported—but not guided—by an algorithm. We compared SOPs with two baselines that do not allow
+user agency, on a creative task of fictional story writing. Our findings indicate that the SOPs approach leads to creative
+outputs of higher quality and to higher collaboration satisfaction. Our results have scientific, applied, and societal
+implications. At a scientific level, we contribute to the development of collaborative work systems that are humancentered,
+non-intrusive and make workers an integral part of the algorithmic decision-making processes. At an
+applied level, SOPs can help existing online work platforms integrate the element of collaboration more systematically
+into their structure. Finally, this work contributes to the broader societal discussion around the future of work
+and ethical AI. Our approach, offering an alternative yet practical way to ensure a balanced coexistence between
+human workers and collaboration management algorithms, can contribute towards creating a future of online work
+that is more respectful and better uses both human and algorithmic capabilities.'
+date: 2022-08-01
+venue: 'Collective Intelligence'
+paperurl: 'https://journals.sagepub.com/doi/pdf/10.1177/26339137221078005'
+citation: 'Lykourentzou, I., Vinella, F. L., Ahmed, F., Papastathis, C., Papangelis, K., Khan, V. J., & Masthoff, J. (2022). Self-organization in online collaborative work settings. Collective Intelligence, 1(1), 26339137221078005.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+As the volume and complexity of distributed online work increases, collaboration among people who have never worked
+together in the past is becoming increasingly necessary. Recent research has proposed algorithms to maximize the performance
+of online collaborations by grouping workers in a top-down fashion and according to a set of predefined decision
+criteria. This approach often means that workers have little say in the collaboration formation process. Depriving users of
+control over whom they will work with can stifle creativity and initiative-taking, increase psychological discomfort, and,
+overall, result in less-than-optimal collaboration results—especially when the task concerned is open-ended, creative, and
+complex. In this work, we propose an alternative model, called Self-Organizing Pairs (SOPs), which relies on the crowd of
+online workers themselves to organize into effective work dyads. Supported but not guided by an algorithm, SOPs are a new
+human-centered computational structure, which enables participants to control, correct, and guide the output of their
+collaboration as a collective. Experimental results, comparing SOPs to two benchmarks that do not allow user agency, and on
+an iterative task of fictional story writing, reveal that participants in the SOPs condition produce creative outcomes of higher
+quality, and report higher satisfaction with their collaboration. Finally, we find that similarly to machine learning-based selforganization,
+human SOPs exhibit emergent collective properties, including the presence of an objective function and the
+tendency to form more distinct clusters of compatible collaborators.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://journals.sagepub.com/doi/pdf/10.1177/26339137221078005)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
