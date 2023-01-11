@@ -14,6 +14,6 @@ Co-organized the first GMAP workshop on Group Recommender Systems for the UMAP 2
 * Share research on group recommender systems
 * Address problems in the field
 * Educate and discuss group recommender systems with likeminded researchers
-* Develop methods and resources to enrich the field.
+* Develop methods and resources for group recommender systems across interdisciplinary approaches.
 
 
