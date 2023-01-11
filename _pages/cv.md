@@ -20,7 +20,7 @@ Work experience
 * July 2019--Present: Ph.D. student • Social Computing • Human-Centered Computing Group, Utrecht University, The Netherlands
   * Utilizing a range of statistical and human-computer interaction methods, I investigate the effectiveness of various manipulations, such as algorithms, frameworks, and user recommendations, on teamwork and collaboration in online work settings. In addition to my primary research focus, I am also actively involved in collaborating with researchers on a variety of other topics such as emotional support for groups and bringing a diverse range of skills to the team. I am also a lecturer in Python programming and HCI methods at both the bachelor's and master's levels and regularly present recent research at international conferences. I am frequently responsible for supervising students as they work on their theses and helping them with planning and motivation.
 
-* March 2019—April 2019: Research Assistant • EarSense • Napier University, Edinburgh, Scotland, UK
+* <i>March 2019—April 2019</i>: **Research Assistant • EarSense • Napier University, Edinburgh, Scotland, UK**
   * I continued the work started in 2018 on the development of user-friendly low-power headphones for hands-off mobility. The work entailed the refinement of the signal processing with Python and C++ and the improvement of the hardware by iteratively researching optimal implementations.
 
 * January 2019—February 2019: Research Assistant • Fake News • Napier University, Edinburgh, Scotland, UK
