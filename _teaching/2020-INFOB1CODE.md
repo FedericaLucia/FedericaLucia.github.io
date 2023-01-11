@@ -1,7 +1,7 @@
 ---
 title: "Computational Thinking with Python"
 collection: teaching
-type: "Undergraduate (BS) course"
+type: "Undergraduate (BSc) course"
 permalink: /teaching/2020-INFOB1CODE
 venue: "Utrecht University, School of Information and Computer Science"
 date: 2020-01-01
