@@ -22,3 +22,6 @@ For 2023, I am looking for **opportunities** to collaborate with other Research 
 2. Social computing, 
 3. Technology for inclusivity, 
 4. Digital nudging interventions. 
+
+------
+You can reach me at f.l.vinella(at)uu.nl
